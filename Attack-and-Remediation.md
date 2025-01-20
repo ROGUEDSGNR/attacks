@@ -141,14 +141,6 @@ You'll find about <font color="#adff23">70 specific attacks exemplified with cod
 
 ---
 
-# Index
-
-```toc
-
-```
-
----
-
 ## **1. SQL Injection (SQLi)**
 
 **Category:** #Execution-Attack 
