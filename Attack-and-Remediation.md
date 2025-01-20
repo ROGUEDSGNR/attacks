@@ -19,7 +19,7 @@ tags:
 ---
 # Attack | Remediation Glossary
 
-You'll find about <font color="#adff23">70 specific attacks exemplified with code below the Attack Categories</font>, indexed as well
+You'll find about <font color="#adff23">70 specific attacks exemplified with code below the Attack Categories</font>
 
 ## Categories of Attacks
 
